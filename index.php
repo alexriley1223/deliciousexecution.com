@@ -35,7 +35,7 @@
                 <div class="flex-row">
                     <h1>Delicious Execution</h1>
 
-                    <iframe src="https://discord.com/widget?id=604872185391087629&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                    <iframe src="https://discord.com/widget?id=1081309519403040769&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                 </div>
             </section>
 
